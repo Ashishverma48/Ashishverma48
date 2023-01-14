@@ -1,6 +1,5 @@
  #         Hi 👏, I'm Ashish Kumar Verma
 
-### Aspiring Front End Web Developer. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.
 
 
 
