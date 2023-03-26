@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @Ashishverma48
 - 👀 I’m interested in ... Web Developement
 - 🌱 I’m currently learning ... Full Stack Web Development
--  Know More---https://ashishkv.netlify.app/
+-  Know More--- https://ashishverma48.netlify.app/
 - 📫 How to reach me ... https://www.linkedin.com/in/ashishverma48/
 
 <!---
