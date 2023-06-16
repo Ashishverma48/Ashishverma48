@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Python Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ashishverma48.netlify.app/](https://ashishverma48.netlify.app/)
-
 - 💬 Ask me about **HTML, CSS, JavaScipt, React.js, Python, Django**
 
 - 📫 How to reach me **ashishkv845@gmail.com**
