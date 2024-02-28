@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring Full Stack Web Developer. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Python Full Stack Web Development<br><br>💬 Ask me about HTML, CSS, JavaScipt, React.js, Python, Django<br><br>📫 How to reach me ashishkv845@gmail.com<br><br>⚡ Know More https://ashishverma48.netlify.app/
+🔥 Web Developer grinding hard to make something coolt<br><br>✨ Favorite Tech: JavaScript, React, Python ...<br><br>📫 How to reach me ashishkv845@gmail.com<br><br>⚡ Know More https://ashishverma48.vercel.app/
 
 
 ## 🌐 Socials:
