@@ -26,7 +26,16 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Ashish Verma <br><br>- 🔥 Web Developer grinding hard to make something cool
+<br>-✨ Favorite Tech: JavaScript, React, Python ...<br>
+
+<br/>
+📧 saadpasta70@gmail.com
+
+<br/>
+🎨 Portfolio: https://ashishverma48.vercel.app/
+
+</p>
 
 ###
 
