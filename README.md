@@ -33,3 +33,17 @@
 
 - **Web Developer**:  (August 2024 - Present)
 - **Web Developer**:  (Jan 2024 - August 2024)
+
+
+## 📱 Connect with me :
+ <a href="https://ashishverma48.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
+  </a>
+    <a title="ashishkv845@gmail.com" href="mailto:ashishkv845@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkv845@gmail.com" />
+    </a>
+     <a href="https://twitter.com/akverma48" target="blank"><img src="https://img.shields.io/twitter/follow/akverma48?logo=x&style=for-the-badge" alt="akverma48" />
+     <a href="https://www.instagram.com/ashishverma048/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma048?logo=instagram&style=for-the-badge" alt="ashishverma048" />
+         
+ <a href="https://www.linkedin.com/in/ashishverma48/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma48?logo=linkedin&style=for-the-badge" alt="ashishverma48" /></a>
+</p>
