@@ -8,7 +8,7 @@
 </h1>
 <h3 align="left">A passionate Web Developer dedicated to building responsive and dynamic web applications.</h3>
 <!----------------------------------- Profile View Section ------------------------------------>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="ashishverma48" /></a> <a title="ashishkv845@gmail.com" href="mailto:ashishkv845@gmail.com">
+<p align="left"> <a href="https://www.linkedin.com/in/ashishverma48/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma48?logo=linkedin&style=for-the-badge" alt="ashishverma48" /></a> <a title="ashishkv845@gmail.com" href="mailto:ashishkv845@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkv845@gmail.com" />
     </a></p>
 
@@ -22,14 +22,14 @@
 
 ## 🛠 Skills
 
-- **Languages**: PHP, JavaScript, HTML, CSS, SQL
-- **Front-End**: HTML, CSS, Bootstrap, JavaScript (React)
-- **Back-End**: PHP, Laravel, MySQL, PostgreSQL
-- **Others**: WordPress, Figma, Canva
-- **Tools**: VS Code, Git, Postman, XAMPP
+- **Languages**: PHP, JavaScript, Python,TypeScript
+- **Front-End**: HTML, CSS, Bootstrap, React, Nextjs
+- **Back-End**: Django, Laravel, Nodejs, Expressjs
+- **Datebase**: MySQL, PostgreSQL, Mongodb
+- **Others**: Frappe, ERPNext
+- **Tools**: VS Code, Git, Postman
 
 ## 📄 Working Experience
 
-- **Web Developer**:  (March 2022 - Present)
-- **Freelance Web Developer**:  (Jul 2020 - Feb 2022)
-- **Web Designer**:  (Jan 2019 - Jul 2020)
+- **Web Developer**:  (August 2024 - Present)
+- **Web Developer**:  (Jan 2024 - August 2024)
