@@ -15,7 +15,7 @@
 - 👋 Hi, I’m a **Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focusing on both front-end and back-end development.**
 - 🌱 I’m improving **my skills in JavaScript frameworks and system design**.
 - 💬 Ask me about **Front-End, Back-End, and Database Management**.
-- 💞️ I’m looking to collaborate on **PHP, Laravel, JavaScript, and React projects**.
+- 💞️ I’m looking to collaborate on **Laravel, JavaScript, React and Nextjs projects**.
 - 📫 How to reach me: **ashishkv845@gmail.com**
 - 💞️ I love contributing to **Open Source** and sharing my knowledge with the community.
 - For more: **https://ashishverma48.vercel.app/**
@@ -23,7 +23,7 @@
 ## 🛠 Skills
 
 - **Languages**: PHP, JavaScript, Python,TypeScript
-- **Front-End**: HTML, CSS, Bootstrap, React, Nextjs
+- **Front-End**: HTML, CSS, Tailwind,  React, Nextjs
 - **Back-End**: Django, Laravel, Nodejs, Expressjs
 - **Datebase**: MySQL, PostgreSQL, Mongodb
 - **Others**: Frappe, ERPNext
