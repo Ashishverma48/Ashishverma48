@@ -33,7 +33,22 @@
 
 - **Web Developer**:  (August 2024 - Present)
 - **Web Developer**:  (Jan 2024 - August 2024)
+## 📈 Analytics
 
+<p align="center">
+<a href="https://github.com/ashishverma48">
+  <img height="180em" width="49%" margin-right="15px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishverma48&theme=radical&show_icons=true&include_all_commits=false&count_private=true"/>
+  <img height="180em" width="49%" src="https://streak-stats.demolab.com?user=ashishverma48&theme=transparent&date_format=%5BY%20%5DM%20j&theme=radical"/>
+</a>
+</p>
+<!-- <p align="start">
+        <a href="https://stardev.io/developers/coderbaba0"><img alt="Check out coderbaba0's profile on stardev.io" src="https://stardev.io/developers/coderbaba0/badge/languages/global.svg" /></a>
+</p> -->
+<div align="start">
+  <img align="center"  width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishverma48&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishverma48&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishverma48&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+</div>
 
 ## 📱 Connect with me :
  <a href="https://ashishverma48.vercel.app/">
