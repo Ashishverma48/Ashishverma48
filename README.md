@@ -9,13 +9,8 @@
 <h3 align="left">Associate Software Developer | Web Development Enthusiast.</h3>
 <p>
     I'm an Associate Software Developer focusing on both **front-end** and **back-end** development. I’m passionate about building responsive, dynamic web applications and improving my skills in the latest technologies.
-
 </p>
 <!----------------------------------- Profile View Section ------------------------------------>
-<p align="left"> <a href="https://www.linkedin.com/in/ashishverma48/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma48?logo=linkedin&style=for-the-badge" alt="ashishverma48" /></a> <a title="ashishkv845@gmail.com" href="mailto:ashishkv845@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkv845@gmail.com" />
-    </a></p>
-
 ## 👨‍💻 About Me
 
 🌱 Currently improving skills in **JavaScript frameworks**, **system design**, and **Python-based back-end development**  
@@ -26,6 +21,8 @@
 - 📧 Email: [ashishkv845@gmail.com](mailto:ashishkv845@gmail.com)
 - 🌐 Website: [ashishverma48.vercel.app](https://ashishverma48.vercel.app/)
 - 🐦 Twitter: [@ashishverma48](https://twitter.com/ashishverma48)
+- 💼 LinkedIn: [Ashish Verma](https://www.linkedin.com/in/ashishverma48/)
+
 
 ## 🛠 Skills & Tools
 
@@ -48,7 +45,7 @@
 
 - **Associate Software Developer**  
   *(August 2024 – Present)*  
-  Currently working on building dynamic web applications with a focus on both the front-end (React, Next.js) and back-end (Python, Django).
+  Currently working on building dynamic web applications with a focus on both the front-end (React) and back-end (Python, Django).
 
 - **Web Developer**  
   *(January 2024 – August 2024)*  
@@ -76,17 +73,10 @@ I love contributing to **open-source** projects and helping the community grow. 
   <img align="center" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishverma48&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 
-## 📱 Connect with me :
- <a href="https://ashishverma48.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
-  </a>
-   <a href="https://www.linkedin.com/in/ashishverma48/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma48?logo=linkedin&style=for-the-badge" alt="ashishverma48" /></a>
-    <a title="ashishkv845@gmail.com" href="mailto:ashishkv845@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkv845@gmail.com" />
-    </a>
-     <a href="https://twitter.com/akverma48" target="blank"><img src="https://img.shields.io/twitter/follow/akverma48?logo=x&style=for-the-badge" alt="akverma48" />
-     <a href="https://www.instagram.com/ashishverma048/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma048?logo=instagram&style=for-the-badge" alt="ashishverma048" />
-         
+
 
 ## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
