@@ -27,19 +27,38 @@
 - 🌐 Website: [ashishverma48.vercel.app](https://ashishverma48.vercel.app/)
 - 🐦 Twitter: [@ashishverma48](https://twitter.com/ashishverma48)
 
-## 🛠 Skills
+## 🛠 Skills & Tools
 
-- **Languages**: JavaScript, Python,TypeScript
-- **Front-End**: HTML, CSS, Tailwind,  React, Nextjs
-- **Back-End**: Django, Nodejs, Expressjs
-- **Datebase**: MySQL, PostgreSQL, Mongodb
-- **Others**: Frappe, ERPNext
-- **Tools**: VS Code, Git, Github, Postman
+### **Languages**:
+- JavaScript, **Python**, TypeScript
 
-## 📄 Working Experience
+### **Front-End**:
+- HTML, CSS, Tailwind CSS, React, Next.js
 
-- **Associate Software Developer**:  (August 2024 - Present)
-- **Web Developer**:  (Jan 2024 - August 2024)
+### **Back-End**:
+- **Python** (Django), Node.js, Express.js
+
+### **Database**:
+- MySQL, PostgreSQL, MongoDB
+
+### **Other Tools & Frameworks**:
+- **Frappe**, **ERPNext**, VS Code, Git, GitHub, Postman
+---
+## 📄 Work Experience
+
+- **Associate Software Developer**  
+  *(August 2024 – Present)*  
+  Currently working on building dynamic web applications with a focus on both the front-end (React, Next.js) and back-end (Python, Django).
+
+- **Web Developer**  
+  *(January 2024 – August 2024)*  
+  Designed and developed user-centric, responsive websites and web applications. Integrated **Python** for building REST APIs.
+
+---
+## 💞 Open Source Contributions
+I love contributing to **open-source** projects and helping the community grow. Feel free to reach out if you're working on something cool or if you'd like to collaborate!
+
+---
 ## 📈 Analytics
 
 <p align="center">
