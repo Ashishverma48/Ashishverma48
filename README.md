@@ -6,19 +6,26 @@
 <!--     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> -->
   
 </h1>
-<h3 align="left">A Associate Software Developer dedicated to building responsive and dynamic web applications.</h3>
+<h3 align="left">Associate Software Developer | Web Development Enthusiast.</h3>
+<p>
+    I'm an Associate Software Developer focusing on both **front-end** and **back-end** development. I’m passionate about building responsive, dynamic web applications and improving my skills in the latest technologies.
+
+</p>
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left"> <a href="https://www.linkedin.com/in/ashishverma48/" target="blank"><img src="https://img.shields.io/twitter/follow/ashishverma48?logo=linkedin&style=for-the-badge" alt="ashishverma48" /></a> <a title="ashishkv845@gmail.com" href="mailto:ashishkv845@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkv845@gmail.com" />
     </a></p>
 
-- 👋 Hi, I’m a **Associate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focusing on both front-end and back-end development.**
-- 🌱 I’m improving **my skills in JavaScript frameworks and system design**.
-- 💬 Ask me about **Front-End, Back-End, and Database Management**.
-- 💞️ I’m looking to collaborate on **Laravel, JavaScript, React and Nextjs projects**.
-- 📫 How to reach me: **ashishkv845@gmail.com**
-- 💞️ I love contributing to **Open Source** and sharing my knowledge with the community.
-- For more: **https://ashishverma48.vercel.app/**
+## 👨‍💻 About Me
+
+🌱 Currently improving skills in **JavaScript frameworks**, **system design**, and **Python-based back-end development**  
+💬 Ask me about **Frontend**, **Backend**, **Python**, and **Database Management**  
+💞 Looking to collaborate on **Laravel**, **JavaScript**, **React**, **Next.js**, and **Python** projects
+
+### 📫 How to reach me:
+- 📧 Email: [ashishkv845@gmail.com](mailto:ashishkv845@gmail.com)
+- 🌐 Website: [ashishverma48.vercel.app](https://ashishverma48.vercel.app/)
+- 🐦 Twitter: [@ashishverma48](https://twitter.com/ashishverma48)
 
 ## 🛠 Skills
 
