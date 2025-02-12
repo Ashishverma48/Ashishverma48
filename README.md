@@ -31,7 +31,7 @@
 
 ## 📄 Working Experience
 
-- **Web Developer**:  (August 2024 - Present)
+- **Associate Software Developer**:  (August 2024 - Present)
 - **Web Developer**:  (Jan 2024 - August 2024)
 ## 📈 Analytics
 
