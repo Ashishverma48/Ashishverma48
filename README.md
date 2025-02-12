@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkv845@gmail.com" />
     </a></p>
 
-- 👋 Hi, I’m a **Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focusing on both front-end and back-end development.**
+- 👋 Hi, I’m a **Associate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focusing on both front-end and back-end development.**
 - 🌱 I’m improving **my skills in JavaScript frameworks and system design**.
 - 💬 Ask me about **Front-End, Back-End, and Database Management**.
 - 💞️ I’m looking to collaborate on **Laravel, JavaScript, React and Nextjs projects**.
@@ -22,12 +22,12 @@
 
 ## 🛠 Skills
 
-- **Languages**: PHP, JavaScript, Python,TypeScript
+- **Languages**: JavaScript, Python,TypeScript
 - **Front-End**: HTML, CSS, Tailwind,  React, Nextjs
-- **Back-End**: Django, Laravel, Nodejs, Expressjs
+- **Back-End**: Django, Nodejs, Expressjs
 - **Datebase**: MySQL, PostgreSQL, Mongodb
 - **Others**: Frappe, ERPNext
-- **Tools**: VS Code, Git, Postman
+- **Tools**: VS Code, Git, Github, Postman
 
 ## 📄 Working Experience
 
