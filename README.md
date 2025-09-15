@@ -23,22 +23,39 @@
 - 💼 LinkedIn: [Ashish Verma](https://www.linkedin.com/in/ashishverma48/)
 
 
-## 🛠 Skills & Tools
+## 🛠️ Tech Arsenal  
 
-### **Languages**:
-- JavaScript, **Python**, TypeScript
+<details>
+<summary>⚡ Click to expand</summary><br/>
 
-### **Front-End**:
-- HTML, CSS, Tailwind CSS, React, Next.js
+### 💻 Languages  
+- 🟨 JavaScript  
+- 🐍 Python  
+- 🔷 TypeScript  
 
-### **Back-End**:
-- **Python** (Django), Node.js, Express.js
+### 🎨 Frontend  
+- 🌐 HTML • 🎨 CSS • 🎯 Tailwind CSS  
+- ⚛️ React • ⏭ Next.js  
 
-### **Database**:
-- MySQL, PostgreSQL, MongoDB
+### 🔧 Backend  
+- 🟢 Node.js • 🚂 Express.js  
+- 🐍 Django  
 
-### **Other Tools & Frameworks**:
-- **Frappe**, **ERPNext**, **Firebase**, VS Code, Git, GitHub, Postman
+### 🗄️ Databases  
+- 🐬 MySQL  
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+
+### 🛠 Tools & Platforms  
+- ⚡ Frappe • 🧩 ERPNext  
+- 🔥 Firebase • 🧪 Postman  
+- 🛠 Git & GitHub  
+- 💻 VS Code  
+
+</details>
+
+---
+
 
 ##  💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
