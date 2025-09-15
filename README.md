@@ -19,7 +19,7 @@
 ### 📫 How to reach me:
 - 📧 Email: [ashishkv845@gmail.com](mailto:ashishkv845@gmail.com)
 - 🌐 Website: [ashishverma48.vercel.app](https://ashishverma48.vercel.app/)
-- 🐦 Twitter: [@ashishverma48](https://twitter.com/akverma48)
+- 🐦 Twitter: [@akverma48](https://twitter.com/akverma48)
 - 💼 LinkedIn: [Ashish Verma](https://www.linkedin.com/in/ashishverma48/)
 
 
